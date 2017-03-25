@@ -19,5 +19,5 @@
 
 
 
-کانال ما
-@PHPBotCreator
+[کانال ما](Https://t.me/PrimeTeam)
+[سازنده بات و سورس](Https://t.me/SorBlack)

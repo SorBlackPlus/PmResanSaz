@@ -1,14 +1,14 @@
 <?php
 	/*
-	Telegram.me/OneProgrammer
-	Telegram.me/SpyGuard
-	Github.com/mehrab-wj/SimplePHPBot
+	Telegram.me/PrimeTeam
+	Telegram.me/SorBlack
+	Github.com/SorBlackPlus
 	----[ Lotfan Copy Right Ro Rayat Konid <3 ]----
 	############################################################################################
-	# if you need Help for develop this source , You Can Send Message To Me With @SpyGuard_BOT #
+	# if you need Help for develop this source , You Can Send Message To Me With @PmSorBlackBOT #
 	############################################################################################
 	*/
-	define('API_KEY','**TOKEN**');
+	define('API_KEY','334517141:AAHVHY3i5TRCFAUXZKnmk2DAjzuLQ0l73-k');
 	//----######------
 	
 	function makereq($method,$datas=[]){
@@ -1482,7 +1482,7 @@ makereq('leaveChat',[
 1⃣ حذف تمامی پیام های تبلیغاتی ربات ❌
 2⃣ مدیریت و ایجاد دکمه حرفه ای برای ربات ⌨
 3⃣ رفع مشکلات شما در ربات پشتیبان پی وی رسان 🗣
-4⃣ دستور /creator که نشان دهنده ساخته شدن ربات شما توسط @CreatePHPBot است از ربات شما حذف میشود. 😉
+4⃣ دستور /creator که نشان دهنده ساخته شدن ربات شما توسط @CreatorPlusBot است از ربات شما حذف میشود. 😉
 5⃣ در صورت اضافه شدن امکانات جدید به ربات پی وی رسان ربات های VIP اولویت اول را دارند. 🤖
 
 🔰 هزینه تبدیل به ربات (VIP) سالیانه 5,000 تومان میباشد
@@ -1498,12 +1498,12 @@ makereq('leaveChat',[
 
 - نوشته شده به زبان PHP
 
-- برنامه نویس ها : @OneProgrammer
+- برنامه نویس ها : @SorBlack
 
 برای مشاهده ی دستورات از دکمه های زیر استفاده کنید 👇
 
 Copy Right 2016 ©
-@DevelopersCity
+@PrimeTeam
 	";
 	
 	var_dump(makereq('sendMessage',[

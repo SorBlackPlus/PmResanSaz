@@ -1,6 +1,6 @@
-# PvResanBot
+# PmResanSaz
 
-سورس شبیه سازی شده ربات @PvResanBot که دو زبانه هم هست
+سورس شبیه سازی شده ربات @PmResanSaz که دو زبانه هم هست
 
 
 اموزش:
